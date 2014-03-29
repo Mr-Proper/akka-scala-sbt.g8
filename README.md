@@ -2,9 +2,9 @@
 
 Because Typesafe Activator is a [poor replacement](https://github.com/typesafehub/akka-scala-sbt.g8/pull/7#issuecomment-32006874) for [giter8].
 
-- [Scala] 2.10.3
-- [Akka] 2.2.3 (`akka-actor` and `akka-testkit`)
-- [sbt] 0.13.0
+- [Scala] 2.10.4
+- [Akka] 2.3.1 (`akka-actor` and `akka-testkit`)
+- [sbt] 0.13.1
 
 As I bump versions check the branches for previous versions of the packages referenced by this template.
 
@@ -28,8 +28,6 @@ specific language governing permissions and limitations under the License.
 ## My Modifications
 
 I modified files. Really? Apache 2.0 license burden? Sheesh.
-
-Copyright 2014 Charles Feduke
 
 [giter8]: https://github.com/n8han/giter8
 [Akka]: http://akka.io
